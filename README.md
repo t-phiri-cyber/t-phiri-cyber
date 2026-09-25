@@ -45,7 +45,7 @@ I am developing practical cybersecurity skills through hands-on labs, security t
 
 ## 📂 Cybersecurity Projects
 
-### LAMP Web Server Security Project
+### [LAMP Web Server Security Project](https://github.com/t-phiri-cyber/lamp-web-server-security)
 Hands-on security assessment and hardening of a LAMP-based web application.
 
 - Identified SQL injection and XSS vulnerabilities
